@@ -4,9 +4,9 @@ Trabajo Fin de Grado para la obtención del título de Graduado en Ingeniería e
 
 Autora: Ana Li Medina Amores
 
-Universidad Politécnica de Madrid (UPM). Escuela Técnica Superior de Ingenieros Industriales (ETSII).
-Curso 2025-2026
+Universidad Politécnica de Madrid (UPM), Escuela Técnica Superior de Ingenieros Industriales (ETSII).
 
+Curso 2025-2026
 ## Descripción
 
 Este repositorio contiene las bases de datos y códigos en RStudio empleados en el TFG "Modelos de resiliencia económico-industrial y social".
