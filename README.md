@@ -1,9 +1,10 @@
 # Modelos de resiliencia económico-industrial y social
 
-Trabajo Fin de Grado para la obtención del título de Ingeniería en Tecnologías Industriales.
+Trabajo Fin de Grado para la obtención del título de Graduado en Ingeniería en Tecnologías Industriales.
 
 Autora: Ana Li Medina Amores
-Universidad Politécnica de Madrid (UPM)
+
+Universidad Politécnica de Madrid (UPM). Escuela Técnica Superior de Ingenieros Industriales (ETSII).
 Curso 2025-2026
 
 ## Descripción
