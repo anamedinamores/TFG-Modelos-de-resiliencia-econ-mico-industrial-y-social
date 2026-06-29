@@ -24,7 +24,7 @@ El objetivo del estudio es identificar los determinantes estructurales de la res
 - R8 - A.EXTENDIDO.R → Técnicas Multivariantes (ACP, Clúster, LDA)
 - datasetdef.xlsx → Base de datos principal (variable: meses)
 - datasetdef2.xlsx → Base de datos con variable binaria (impacto)
-- datasetdef3.xlsx → Base de datos con variable (variación PIB)
+- datasetdef3.xlsx → Base de datos con nueva variable (variación porcentual del PIB)
 
 
 ## Fuentes de datos
